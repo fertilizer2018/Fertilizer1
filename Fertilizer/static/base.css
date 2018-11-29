@@ -1,0 +1,33 @@
+/* login form*/
+.card {
+    width: 500px;
+    border: 1px solid;
+    margin: auto;
+}
+
+form {
+    /* margin: auto; */
+    /* margin-right: 143px; */
+    margin-left: 100px;
+    padding: 24px;
+}
+
+input[type="submit"] {
+    margin-left: 113px;
+}
+
+.l1 {
+    border: 1px solid;
+    background-color: chartreuse;
+    text-align: center;
+}
+/*
+.card {
+    margin-left: auto;
+    margin-right: auto;
+    width: 333px;
+    border: 1px solid;
+    padding: 92px;
+}
+
+*/
