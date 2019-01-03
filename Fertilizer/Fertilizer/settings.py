@@ -44,7 +44,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'Shoper',
-
+    'auth',
+    'server_farmer',
+    'server_shoper'
 ]
 
 MIDDLEWARE = [
